@@ -1,0 +1,2 @@
+NumeroEmpleado,NumeroCedula,NumeroINSS,NumeroRUC,Nombre,FechaNacimiento,Sexo,EstadoCivil,Direccion,Telefono,Celular,FechaContratacion,FechaCierreContrato,SalarioOrdinario,Activo
+1,001-091104-1051E,908-17-8900,092-839400-9992J,BELEN MARQUEZ,11/09/2004 00:00:00,FEMENINO,SOLTERO(A),"BARRIO LAURELES NORTES,DDF TERMINAL DE RUTA 111,4C AL SUR,1/2 C AL OESTE",2288-5344,8823-2270,11/15/2016 00:00:00,11/15/2024 00:00:00,8000.00,True
